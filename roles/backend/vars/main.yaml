@@ -1,3 +1,5 @@
 LOGIN_USER: root
 LOGIN_PASSWORD: ExpenseApp@1
 MYSQL_HOST: mysql.pavancloud9.online
+APP_LOCATION: /app
+COMPONENT: backend
